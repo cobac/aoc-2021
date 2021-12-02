@@ -16,7 +16,7 @@ function direction(name)
     end
 end 
 
-struct Movement{T}
+struct Movement{T<:Direction}
     n::Int
 end 
 
