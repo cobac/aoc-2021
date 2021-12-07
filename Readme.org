@@ -1,3 +1,1 @@
-My goal is to solve this year's [[https://adventofcode.com][Advent of Code]] in Julia, but in a Haskell-y way. If anyone randomly stumbles into this repository and has any feedback I'd gladly hear it :)
-
-Some of the tasks are implemented just in Julia and some are implemented in multiple languages.
+My goal is to solve this year's [[https://adventofcode.com][Advent of Code]] in mainly Julia and maybe a bit of Haskell.
